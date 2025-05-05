@@ -1,1 +1,1 @@
-#Simple Clock implemented using Javascript Date object
+# Simple Clock implemented using Javascript Date object
