@@ -1,0 +1,38 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    height:50%;
+    width:50%;
+    border: 2px solid red;
+    align-content: center;
+    justify-self: center;
+    padding: 10px;
+    border-radius: 5px;
+
+}
+button{
+    height: 20px;
+    width: 100px;
+    align-self: center;
+    margin: 5px;
+    background-color: red;
+    border: none;
+    border-radius: 5px;
+    color: white;
+}
+
+
+.clock{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.evenStyle{
+    height:20px;
+    width:50px;
+    border: 2px solid red;
+    margin-top: 5px;
+    border-radius: 5px;
+  
+}
